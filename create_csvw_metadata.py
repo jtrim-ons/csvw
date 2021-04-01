@@ -15,7 +15,7 @@ with open(filepath, "r") as csvfile:
 
 metadata = {
     "@context": "http://www.w3.org/ns/csvw",
-    "url": "countries.csv",
+    "url": filename,
     "tableSchema": {
         "columns": []
     }

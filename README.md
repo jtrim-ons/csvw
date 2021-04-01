@@ -24,7 +24,7 @@ then the tool prints the following JSON.
 ```json
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "countries.csv",
+  "url": "data.csv",
   "tableSchema": {
     "columns": [
       {
