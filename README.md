@@ -1,5 +1,8 @@
 # CSVW tools
 
+So far this is just one simple program to create the outline of a
+[CSVW](https://www.w3.org/TR/tabular-data-primer/) metadata file.
+
 ## Create metadata
 
 To print a template for `filename.csv-metatdata.json`:
