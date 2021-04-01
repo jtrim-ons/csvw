@@ -5,7 +5,7 @@ So far this is just one simple program to create the outline of a
 
 ## Create metadata
 
-To print a template for `filename.csv-metatdata.json`:
+To print a template for `filename.csv-metadata.json`:
 
 ```python
 python3 create_csvw_metadata.py filename.csv
